@@ -28,12 +28,9 @@ continue: Skips the current iteration and moves to the next iteration.
 else with while: Executes when the loop finishes normally (without break).
 These control statements improve flexibility and control over loop execution.
 
-Algorithm for Program 1: Study of Loops in Python (Header Information)
-Step 1: Start.
-Step 2: Display the experiment title and student details.
-Step 3: Stop.
 
-Algorithm for Program 2: Print i as long as i is less than 6
+
+Algorithm for Program 1: Print i as long as i is less than 6
 Step 1: Start.
 Step 2: Initialize i = 1.
 Step 3: Check if i < 6.
@@ -42,7 +39,7 @@ Step 5: Increment i by 1.
 Step 6: Repeat Steps 3 to 5 until condition becomes false.
 Step 7: Stop.
 
-Algorithm for Program 3: Print Numbers from 1 to N
+Algorithm for Program 2: Print Numbers from 1 to N
 Step 1: Start.
 Step 2: Accept integer n from user.
 Step 3: Initialize i = 1.
@@ -52,7 +49,7 @@ Step 6: Increment i by 1.
 Step 7: Repeat Steps 4 to 6 until condition becomes false.
 Step 8: Stop.
 
-Algorithm for Program 4: Factorial of a Number
+Algorithm for Program 3: Factorial of a Number
 Step 1: Start.
 Step 2: Accept integer n from user.
 Step 3: Initialize fact = 1.
@@ -62,7 +59,7 @@ Step 6: Repeat Steps 4 and 5 until n becomes 0.
 Step 7: Print fact.
 Step 8: Stop.
 
-Algorithm for Program 5: Fibonacci Series using While Loop
+Algorithm for Program 4: Fibonacci Series using While Loop
 Step 1: Start.
 Step 2: Accept integer n from user.
 Step 3: Initialize a = 0, b = 1, i = 1.
@@ -75,7 +72,7 @@ Step 9: Increment i by 1.
 Step 10: Repeat Steps 4 to 9 until condition becomes false.
 Step 11: Stop.
 
-Algorithm for Program 6: Fibonacci Series up to a Limit
+Algorithm for Program 5: Fibonacci Series up to a Limit
 Step 1: Start.
 Step 2: Accept integer limit from user.
 Step 3: Initialize a = 0, b = 1.
@@ -85,7 +82,7 @@ Step 6: Compute next term using a = b and b = a + b (simultaneous update).
 Step 7: Repeat Steps 4 to 6 until condition becomes false.
 Step 8: Stop.
 
-Algorithm for Program 7: Reverse a Number
+Algorithm for Program 6: Reverse a Number
 Step 1: Start.
 Step 2: Accept integer num from user.
 Step 3: Initialize rev = 0.
@@ -96,7 +93,7 @@ Step 7: Repeat Steps 4 to 6 until num becomes 0.
 Step 8: Print rev.
 Step 9: Stop.
 
-Algorithm for Program 8: Check Palindrome Number
+Algorithm for Program 7: Check Palindrome Number
 Step 1: Start.
 Step 2: Accept integer num from user.
 Step 3: Store original number in temp.
@@ -107,7 +104,7 @@ Step 7: If equal, print “Palindrome”.
 Step 8: Otherwise, print “Not Palindrome”.
 Step 9: Stop.
 
-Algorithm for Program 9: Check Palindrome for a String (Fixed String)
+Algorithm for Program 8: Check Palindrome for a String (Fixed String)
 Step 1: Start.
 Step 2: Assign string s = "madam".
 Step 3: Initialize i = 0, j = length of s - 1.
@@ -119,7 +116,7 @@ Step 8: After loop, if is_palindrome is True, print “Yes”.
 Step 9: Otherwise, print “No”.
 Step 10: Stop.
 
-Algorithm for Program 10: Check Palindrome for User Input String
+Algorithm for Program 9: Check Palindrome for User Input String
 Step 1: Start.
 Step 2: Accept string s from user.
 Step 3: Initialize i = 0, j = length of s - 1.
@@ -131,7 +128,7 @@ Step 8: If is_palindrome is True, print “Yes”.
 Step 9: Otherwise, print “No”.
 Step 10: Stop.
 
-Algorithm for Program 11: Check Palindrome using Slicing
+Algorithm for Program 10: Check Palindrome using Slicing
 Step 1: Start.
 Step 2: Accept string st from user.
 Step 3: Reverse string using slicing and store in rev.
@@ -140,7 +137,7 @@ Step 5: If equal, print “Palindrome”.
 Step 6: Otherwise, print “Not Palindrome”.
 Step 7: Stop.
 
-Algorithm for Program 13: Exit Loop when i is 3
+Algorithm for Program 11: Exit Loop when i is 3
 Step 1: Start.
 Step 2: Initialize i = 1.
 Step 3: While i < 6, print i.
@@ -148,7 +145,7 @@ Step 4: If i == 3, terminate loop using break.
 Step 5: Increment i by 1.
 Step 6: Stop.
 
-Algorithm for Program 14: Search an Element in a List
+Algorithm for Program 12: Search an Element in a List
 Step 1: Start.
 Step 2: Define list nums = [10, 20, 30, 40, 50].
 Step 3: Accept integer key from user.
@@ -159,7 +156,7 @@ Step 7: Increment i by 1.
 Step 8: If loop completes without break, print “Element not found”.
 Step 9: Stop.
 
-Algorithm for Program 15: Print Only Odd Numbers (1 to 10)
+Algorithm for Program 13: Print Only Odd Numbers (1 to 10)
 Step 1: Start.
 Step 2: Initialize i = 0.
 Step 3: While i < 10, increment i by 1.
