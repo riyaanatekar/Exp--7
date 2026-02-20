@@ -28,8 +28,6 @@ continue: Skips the current iteration and moves to the next iteration.
 else with while: Executes when the loop finishes normally (without break).
 These control statements improve flexibility and control over loop execution.
 
-
-
 Algorithm for Program 1: Print i as long as i is less than 6
 Step 1: Start.
 Step 2: Initialize i = 1.
